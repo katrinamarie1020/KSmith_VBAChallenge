@@ -1,3 +1,3 @@
 # KSmith_VBAChallenge
 VBS HW
-Homework is still in progress
+Homework is completed and ready to be graded
